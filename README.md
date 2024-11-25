@@ -1,6 +1,9 @@
 # Aegix-IMS
 Inventory system for Aegix company
 
+![image](https://github.com/user-attachments/assets/01d8666e-4ba1-4488-ad46-bb1e10e9027b)
+
+
 How to Run 
 
 Requirements: 
