@@ -16,13 +16,25 @@ Installation
 
 Open the XAMPP's Control Panel and start the "Apache" and "MySQL". 
 
+![image](https://github.com/user-attachments/assets/397c0783-ee5f-4df0-8328-73fd16f61acf)
+
+
 Copy the extracted folder to XAMPP's "htdocs" directory. (C:\xampp\htdocs) 
+
+![image](https://github.com/user-attachments/assets/4bb22d26-48b0-4bda-a534-59046a4c5322)
+
 
 Open a web browser and browse the PHPMyAdmin. (http://localhost/phpmyadmin) 
 
 Create a new database naming "shop_inventory". 
 
+![image](https://github.com/user-attachments/assets/84545a82-073a-4b6a-88f3-814eda32879b)
+
+
 Import the SQL file. The SQL file is known as "shop_inventory.sql" and this is located at the "inc/config" directory of the extracted folder. 
+
+![image](https://github.com/user-attachments/assets/5fd5692c-f568-4585-a2d7-8ad40a33d664)
+
 
 Open a web browser and browse the web application. (http://localhost/inventory-management-system) 
 
