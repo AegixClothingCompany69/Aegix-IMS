@@ -1,5 +1,6 @@
 # Aegix-IMS
 Inventory system for Aegix company
+
 How to Run 
 
 Requirements: 
@@ -25,6 +26,7 @@ Open a web browser and browse the web application. (http://localhost/inventory-m
 Sample Access 
 
 Username: admin 
+
 Password: admin 
 
 Note: Due to the size or complexity of this submission, the author has submitted it as a .zip file to shorten your download time. After downloading it, you will need a program like Winzip to decompress it. 
@@ -32,4 +34,5 @@ Note: Due to the size or complexity of this submission, the author has submitted
 FOR YOUR OWN SAFETY, PLEASE: 
 
 1. Re-scan downloaded files using your personal virus checker before using it. 
+
 2. NEVER, EVER run compiled files (.exe's, .ocx's, .dll's etc.)--only run source code.
