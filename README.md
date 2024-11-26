@@ -33,6 +33,9 @@ Create a new database naming "shop_inventory".
 
 Import the SQL file. The SQL file is known as "shop_inventory.sql" and this is located at the "inc/config" directory of the extracted folder. 
 
+![image](https://github.com/user-attachments/assets/76a3514b-12ee-47ce-8ed9-d4038de6cdac)
+
+
 ![image](https://github.com/user-attachments/assets/5fd5692c-f568-4585-a2d7-8ad40a33d664)
 
 
