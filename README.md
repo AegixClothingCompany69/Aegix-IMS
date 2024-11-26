@@ -28,16 +28,15 @@ Open a web browser and browse the PHPMyAdmin. (http://localhost/phpmyadmin)
 
 Create a new database naming "shop_inventory". 
 
-![image](https://github.com/user-attachments/assets/84545a82-073a-4b6a-88f3-814eda32879b)
-
+![image](https://github.com/user-attachments/assets/4520318f-8f63-43a8-b641-f666be50b297)
 
 Import the SQL file. The SQL file is known as "shop_inventory.sql" and this is located at the "inc/config" directory of the extracted folder. 
 
-![image](https://github.com/user-attachments/assets/76a3514b-12ee-47ce-8ed9-d4038de6cdac)
-
-
 ![image](https://github.com/user-attachments/assets/5fd5692c-f568-4585-a2d7-8ad40a33d664)
 
+![image](https://github.com/user-attachments/assets/76a3514b-12ee-47ce-8ed9-d4038de6cdac)
+
+![image](https://github.com/user-attachments/assets/84545a82-073a-4b6a-88f3-814eda32879b)
 
 Open a web browser and browse the web application. (http://localhost/inventory-management-system) 
 
