@@ -8,9 +8,9 @@ How to Run
 
 Requirements: 
 
-Download and Install the latest version of XAMPP. 
+Download and Install the latest version of XAMPP. https://www.apachefriends.org/download.html
 
-Download and Extract the source code zip file. (download button is located below) 
+Download and Extract the source code zip file. (inventory-management-system.zip) 
 
 Installation 
 
